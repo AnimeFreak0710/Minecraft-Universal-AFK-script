@@ -1,4 +1,4 @@
-# Minesaga-afk-script
+# Minecraft  universal AFK script
 Do you also hate getting kicked to the hub while afk'ing?
 Then this script is for you! 
 It automatically sends any command you want every minute to so you can always reconnect.
